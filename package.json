@@ -1,0 +1,17 @@
+{
+    "name":"cal",
+    "version":"1.0.0",
+    "description":"My first node and express server BMI calculator",
+    "main":"server.js",
+    "scripts":{
+        "test":"echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author":"Indira Priyadharshini",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+
+
+    }
+}
